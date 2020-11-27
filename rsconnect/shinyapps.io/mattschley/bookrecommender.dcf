@@ -1,0 +1,10 @@
+name: bookrecommender
+title:
+username:
+account: mattschley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3301693
+bundleId: 3905538
+url: https://mattschley.shinyapps.io/bookrecommender/
+when: 1606324665.19335
